@@ -1,9 +1,10 @@
 <div align="center">
 
 <!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=SABARI%20KRISHNAN&fontSize=80&fontColor=0891b2&animation=twinkling&fontAlignY=35&desc=CYBER%20 SECURITY%20%2F%2F%20WEB%20DEVELOPMENT&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=SABARI%20KRISHNAN&fontSize=80&fontColor=0891b2&animation=twinkling&fontAlignY=35&desc=CYBER%20SECURITY%20%2F%2F%20WEB%20DEVELOPMENT&descAlignY=60&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=BOOTING_SYSTEM...;ACCESSING_SECURE_NODES...;PIVOTING_FROM_LIVESTOCK_TO_CODE...;RESILIENCE_SYNC_COMPLETE!;HI_I'M_SABARI_KRISHNAN!" alt="Typing SVG" /></a>
 
 ---
@@ -14,16 +15,16 @@
 ### 🕵️ [ DATA_OVERVIEW ]
 
 ```yml
-  ROOT_USER: SABARI_KRISHNAN_R
-  LOCATION: CHENNAI_INDIA
-  CORE_ENGINE: FULL_STACK // CYBER_SECURITY
-  EXPERIENCE_TYPE: NON_TECHNICAL_PIVOT
-  RESILIENCE: 100%
-  SYSTEM_STATUS: [ ONLINE ]
+ROOT_USER: SABARI_KRISHNAN_R
+LOCATION: CHENNAI_INDIA
+CORE_ENGINE: FULL_STACK // CYBER_SECURITY
+EXPERIENCE_TYPE: NON_TECHNICAL_PIVOT
+RESILIENCE: 100%
+SYSTEM_STATUS: [ONLINE]
 ```
 
 **Intelligence Briefing:**  
-*I forged my resilience in the challenging environments of Livestock Entrepreneurship and bull farms. Today, I am channeling that same grit into engineering high-performance, secure digital structures. I'm building bridges between secure backends (Python/Ruby) and ultra-clean modern frontends.*
+_I forged my resilience in the challenging environments of Livestock Entrepreneurship and bull farms. Today, I am channeling that same grit into engineering high-performance, secure digital structures. I'm building bridges between secure backends (Python/Ruby) and ultra-clean modern frontends._
 
 ---
 
