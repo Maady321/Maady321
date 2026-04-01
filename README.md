@@ -1,37 +1,72 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sabari Krishnan R
-==========================================================================================================================================
+<div align="center">
 
-Web developer and cybersecurity
--------------------------------
+# 🌌 SABARI KRISHNAN R
+### 🌀 [ WEB_DEVELOPER // CYBER_SECURITY_ASPIRANT ]
 
-I come from a unique, non-technical background. After completing my Plus Two in Livestock Entrepreneurship, I spent time working in a bull farm an experience that taught me resilience and the value of hard work.
+<img src="https://user-images.githubusercontent.com/74038190/212257068-12ce440d-13a5-473d-af7b-f11a2d989047.gif" width="100%">
 
-Today, I am pivoting that dedication into the world of technology as an Aspiring Web Developer Student Intern. I am building expertise in Python, Ruby, and Cyber Security, eager to bring my unique perspective to building secure and efficient digital solutions.
+---
 
-* 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [My portfolio](http://maady321.github.io/My_portfolio/)
-* ✉️  You can contact me at [sabarikrishnan994@gmail.com](mailto:sabarikrishnan994@gmail.com)
-* 🧠  I'm currently learning Ruby on Rails/ Django
+### 📡 [ SYSTEM_INITIALIZATION ]
 
-<p align="left">
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby" title="Ruby" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+> **LOG_DATA:** I come from a unique, non-technical background. Having pivoted from **Livestock Entrepreneurship** and hard work in **Bull Farms** to the digital frontier. Driven by resilience and the pursuit of secure, efficient digital solutions.
+
+---
+
+### 🛠️ [ CORE_STREAMS ]
+
+| NODE | STATUS | STACK |
+| :--- | :--- | :--- |
+| **DEVELOPMENT** | `STABLE` | Python, Ruby, JavaScript (ES6+), Django, Flask, FastAPI |
+| **DATABASE** | `SYNCED` | PostgreSQL, Supabase, Firebase |
+| **DESIGN** | `OPTIMIZED` | Figma, UI/UX, Adobe Creative Suite (Ps, Ai, Ae, Pr) |
+| **SYSTEMS** | `ACTIVE` | Linux, Ubuntu, Docker, Arduino, Raspberry Pi |
+
+---
+
+### 🧬 [ TECH_STACK_CAPABILITIES ]
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,python,js,html,css,fastapi,postgres,flask,supabase,firebase,ps,ai,aftereffects,pr,figma,gcp,wordpress,arduino,raspberrypi,linux,ubuntu,django,docker" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Maady321" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/Maady321" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Maady321?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+### 📊 [ SYSTEM_METRICS ]
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <a href="https://github.com/Maady321">
+    <img src="https://github-readme-stats.vercel.app/api?username=Maady321&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2&bg_color=0d1117" alt="Sabari's Stats" />
+  </a>
+</p>
 
-<a href="http://www.github.com/Maady321"><img src="https://github-readme-stats.vercel.app/api?username=Maady321&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Maady321's GitHub stats" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maady321&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2&bg_color=0d1117" alt="Top Languages" />
+</p>
 
-<a href="http://www.github.com/Maady321"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maady321&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maady321&theme=tokyonight&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2" />
+</p>
 
-<a href="https://github.com/Maady321" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maady321&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 🔗 [ ESTABLISH_LINK ]
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+  <a href="mailto:sabarikrishnan994@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-sabarikrishnan994@gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://maady321.github.io/My_portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-MAADY321.GITHUB.IO-0891b2?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Maady321?label=NODES_CONNECTED&style=social" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" width="100%"/>
+
+</div>
