@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=SABARI%20KRISHNAN&fontSize=80&fontColor=0891b2&animation=twinkling&fontAlignY=35&desc=CYBER%20SECURITY%20%2F%2F%20WEB%20DEVELOPMENT&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=SABARI%20KRISHNAN%20R&fontSize=80&fontColor=0891b2&animation=twinkling&fontAlignY=35&desc=CYBER%20SECURITY%20%2F%2F%20WEB%20DEVELOPMENT&descAlignY=60&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 
